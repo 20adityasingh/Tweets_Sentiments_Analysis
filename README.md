@@ -1,3 +1,5 @@
+# THIS PROJECT IS STILL ONGOING.
+
 # Twitter Sentiment Analysis Project
     This project uses the Sentiment140 dataset, which contains 1.6 million tweets, to perform sentiment analysis. The primary objective is to build and evaluate a variety of neural network models for classifying       tweets as either positive or negative.
 
